@@ -10,6 +10,7 @@ import TruScanEEGpy
 def eeg_templateMRI():
     """
     Get template MRI.
+    See https://mne.tools/stable/auto_tutorials/forward/35_eeg_no_mri.html
     """
 
     # Try loading pooch (needed by mne)
