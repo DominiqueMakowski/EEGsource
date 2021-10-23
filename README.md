@@ -1,2 +1,5 @@
 # EEGsource
-EEG source reconstruction attempts
+
+EEG source reconstruction attempts.
+
+![](fig.png)
